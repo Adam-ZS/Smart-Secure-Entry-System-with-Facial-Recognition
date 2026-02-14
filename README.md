@@ -18,7 +18,7 @@
 - [Hardware Requirements](#-hardware-requirements)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Demo](#-demo)
+
 - [Performance](#-performance)
 - [Team](#-team-contributions)
 
@@ -155,19 +155,7 @@ python3 pi_main.py
 
 ---
 
-## 🎬 Demo
 
-### 📺 Video Demonstration
-**[Watch Full Demo on YouTube](https://youtu.be/CiPJNbaYFqo)**
-
-Showcases:
-- Hardware assembly
-- Authorized access with door unlock
-- Unauthorized access denial
-- Gateway web interface
-- Encrypted log storage
-
----
 
 ## 📊 Performance
 
